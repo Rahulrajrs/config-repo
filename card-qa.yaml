@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+card:
+  message: "Welcome to rahul card related qa APIs "
+  contactDetails:
+    name: "Rahul Raj - Developer"
+    email: "rahul@bank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
