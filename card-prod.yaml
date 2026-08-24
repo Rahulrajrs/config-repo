@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 card:
-  message: "Welcome to rahul card related prod APIs "
+  message: "Welcome to rahul card related prod webhook APIs "
   contactDetails:
     name: "Rahul Raj - Developer"
     email: "{cipher}e1fbc3219ad0920fffa6699b06a94778df3baa2d18ce7fb2e511ab823af90dc5"
