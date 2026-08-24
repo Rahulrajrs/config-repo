@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loan:
-  message: "Welcome to rahul card loan prod APIs "
+  message: "Welcome to rahul card loan prod webhook APIs "
   contactDetails:
     name: "Rahul Raj - Developer"
     email: "rahul@bank.com"
