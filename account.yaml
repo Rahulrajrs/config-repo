@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to rahul accounts related local APIs "
+  message: "Welcome to rahul accounts related local docker APIs "
   contactDetails:
     name: "Rahul Raj - Developer"
     email: "rahul@bank.com"
